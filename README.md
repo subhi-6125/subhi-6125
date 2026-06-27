@@ -1,11 +1,12 @@
 ## Hey 👋 I'm Subhiksha
 🎓 B.Tech CSE Student
+
  
-Student ☕ + Tea ☕ + Curiosity 💡
+  Student ☕ + Tea ☕ + Curiosity 💡
 
-           ↓
+               ↓
 
-      Better Developer 🚀
+        Better Developer 🚀
 
 ⚡ Turning curiosity into code.
 🚀 Small steps. Big dreams.
